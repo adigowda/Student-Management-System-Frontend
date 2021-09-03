@@ -1,0 +1,44 @@
+.left-drawer div {
+  top: 64px;
+  width: 180px;
+}
+.side-link-active {
+  background-color: #3f51b5;
+  color: #fff !important;
+}
+
+.side-link {
+  text-decoration: none;
+  color: black;
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  height: inherit;
+  align-items: center;
+  margin-top: 5px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.title-td {
+  font-weight: bold;
+}
+
+.student-form p {
+  margin-bottom: 8px;
+}
+/* .input-field {
+  font-size: 16px;
+  padding: 2px 5px;
+  width: 100%;
+} */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* .MuiOutlinedInput-input {
+  padding: 13px 15px !important;
+} */
